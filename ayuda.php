@@ -118,16 +118,16 @@
                 <h3>Conjuntos Difusos</h3>
                 <h4>Temperatura:</h4>
                 <ul>
-                    <li>Baja (fría): 0-15°C (máximo en 0°C)</li>
-                    <li>Media (templada): 10-30°C (máximo en 20°C)</li>
+                    <li>Baja (fría): 0-20°C (máximo en 0°C)</li>
+                    <li>Media (templada): 15-30°C (máximo en 25°C)</li>
                     <li>Alta (caliente): 25-40°C (máximo en 40°C)</li>
                 </ul>
                 
                 <h4>Velocidad del Ventilador:</h4>
                 <ul>
-                    <li>Lenta: 0-800 RPM (máximo en 0 RPM)</li>
-                    <li>Media: 500-2500 RPM (máximo en 1500 RPM)</li>
-                    <li>Rápida: 2000-3000 RPM (máximo en 3000 RPM)</li>
+                    <li>Lenta: 0-500 RPM (máximo en 0 RPM)</li>
+                    <li>Media: 300-1500 RPM (máximo en 1000 RPM)</li>
+                    <li>Rápida: 1200-3000 RPM (máximo en 3000 RPM)</li>
                 </ul>
             </section>
             
